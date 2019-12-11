@@ -1,3 +1,12 @@
 .notd {
   text-decoration: none;
 }
+
+.adver-img {
+  float: left;
+}
+.advert {
+  top: 1em;
+  width: 45%;
+  padding: 2.5%;
+}
