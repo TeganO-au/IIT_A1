@@ -11,5 +11,5 @@ ul {
   padding: 2.5%;
 }
  #selfie {
-   transform: rotate(-90);
+   transform: rotate(270deg);
  }
