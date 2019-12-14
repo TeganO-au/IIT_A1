@@ -10,3 +10,6 @@ ul {
   width: 45%;
   padding: 2.5%;
 }
+ #selfie {
+   transform: rotate(-90);
+ }
